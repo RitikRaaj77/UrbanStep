@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="shade1">#CAD2C5</color>
+    <color name="shade2">#84A98C</color>
+    <color name="shade3">#52796F</color>
+    <color name="shade4">#354F52</color>
+    <color name="shade5">#2F3E46</color>
+</resources>
+
+<!--https://coolors.co/palette/cad2c5-84a98c-52796f-354f52-2f3e46-->
