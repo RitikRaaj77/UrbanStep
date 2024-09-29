@@ -2,6 +2,7 @@ package com.example.urbanstep.activity
 
 import android.content.Context
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
@@ -28,6 +29,8 @@ class SignUpActivity : AppCompatActivity() {
         enableEdgeToEdge()
         binding = ActivitySignUpBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+
 
         auth = FirebaseAuth.getInstance()
         binding.btnIn.setOnClickListener {
