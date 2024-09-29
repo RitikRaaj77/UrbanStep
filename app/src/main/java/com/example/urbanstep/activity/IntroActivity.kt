@@ -3,6 +3,7 @@ package com.example.urbanstep.activity
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
+import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
@@ -19,7 +20,10 @@ class IntroActivity : BaseActivity() {
             insets
         }
         findViewById<Button>(R.id.button).setOnClickListener {
-            startActivity(Intent(this@IntroActivity, MainActivity::class.java))
+            startActivity(Intent(this, SignUpActivity::class.java))
+        }
+        findViewById<TextView>(R.id.textView).setOnClickListener {
+            startActivity(Intent(this, SignInActivity::class.java))
         }
     }
 }

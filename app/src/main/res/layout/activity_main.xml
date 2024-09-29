@@ -343,7 +343,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Cart"
+                        android:text="My Orders"
                         android:textAlignment="center"
                         android:textColor="@color/shade4"
                         android:textSize="12sp" />
