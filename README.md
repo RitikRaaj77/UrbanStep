@@ -1,4 +1,4 @@
-# Urban Step - E-Commerce Application | [Website](https://yourwebsite.com)
+# Urban Step - E-Commerce Application | [Website](https://ritikraaj77.github.io/UrbanStep/)
 
 ## Introduction
 
